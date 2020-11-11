@@ -6,4 +6,4 @@ Different machine learning models to voice command recognition over a certain da
 
 To run the Keyword Spotting part of this repository, follow the commands below
 
-\textbf{python pip3 install -r requirements.txt}
+#### python pip3 install -r requirements.txt
