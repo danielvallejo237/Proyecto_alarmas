@@ -1,5 +1,11 @@
 # Proyecto_alarmas
 
+  
+ # Agradecimientos
+ 
+ Los autores de este proyecto agradecen el apoyo a la Secretaría de Innovación, Ciencia y Educación Superior del Estado de Guanajuato (SICES) brindado a través del proyecto número SICES/CONV/435/2019
+
+###############################################################################################################################################################
 ## Keyword spotting 
 
 Different machine learning models to voice command recognition over a certain data set. To obtain the data set used in this porject please contact {pastor.lopez,daniel.vallejo,alfredo.elias}@cimat.mx 
